@@ -1,0 +1,41 @@
+.productBody {
+  border: 2px solid #95A0A7;
+  border-radius: 10px;
+  position: relative;
+
+}
+
+.productBody h4 {
+  margin-bottom: 0;
+
+}
+
+.productBody p {
+  margin-top: 1px;
+
+}
+
+.productBody img {
+  width: 95%;
+  display: block;
+  margin: 5px auto;
+}
+
+.cartBtn {
+  width: 100%;
+  bottom: 0;
+  padding: 10px;
+  background-color: #FFE0B3;
+  border: none;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 0;
+
+  cursor: pointer;
+}
+
+.cartBtn:hover {
+  background-color: orange;
+
+
+}

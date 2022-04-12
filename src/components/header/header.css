@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #1C2B35;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+
+.navlink a {
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+}
